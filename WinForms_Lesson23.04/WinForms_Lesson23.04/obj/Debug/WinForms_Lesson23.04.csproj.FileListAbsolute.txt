@@ -1,0 +1,11 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\bin\Debug\WinForms_Lesson23.04.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\bin\Debug\WinForms_Lesson23.04.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\bin\Debug\WinForms_Lesson23.04.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\obj\Debug\WinForms_Lesson23.04.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\obj\Debug\WinForms_Lesson23._04.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\obj\Debug\WinForms_Lesson23._04.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\obj\Debug\WinForms_Lesson23.04.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\obj\Debug\WinForms_Lesson23.04.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\obj\Debug\WinForms_Lesson23.04.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\obj\Debug\WinForms_Lesson23._04.Child.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Lesson23.04\WinForms_Lesson23.04\WinForms_Lesson23.04\obj\Debug\WinForms_Lesson23._04.AddForm.resources
